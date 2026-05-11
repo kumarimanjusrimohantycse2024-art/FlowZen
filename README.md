@@ -108,8 +108,8 @@ FlowZen is an AI-powered code-to-flowchart converter that transforms your source
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/flowzen.git
-cd flowzen
+git clone https://github.com/kumarimanjusrimohantycse2024-art/FlowZen.git
+cd FlowZen
 
 # 2. Install dependencies
 npm install
